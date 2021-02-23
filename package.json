@@ -1,0 +1,11 @@
+{
+  "name": "build-my-team",
+  "version": "1.0.0",
+  "description": "it is build my team work",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
